@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="200">
+
+  <rect x="10" y="10" width="400" height="180" rx="10" ry="10" fill="#fff" stroke="#000" stroke-width="0.5" />
+
+  <text x="20" y="40" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="18"  font-weight="bold" fill="#2f80ed">Price Prediction</text>
+
+  <text x="20" y="58" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="14" fill="#fff">
+     <tspan x="20" dy="1.2em" fill="#000">
+      Real Estate Price Prediction is a Machine Learning
+    </tspan>
+    <tspan x="20" dy="1.2em" fill="#000">
+       Project,the model is trained using Linear regression
+    </tspan>
+    <tspan x="20" dy="1.2em" fill="#000">
+      model.
+    </tspan>
+    <tspan x="20" y="118" dy="1.2em" fill="#000">
+      Techonologies and Libraries used : 
+    </tspan>
+    <tspan x="20" dy="1.2em" y="137" fill="#000">
+      Python, pandas, seaborn, sklearn,
+    </tspan>
+    <tspan x="20" dy="1.2em" y="155" fill="#000">
+      LinearRegression (model).
+    </tspan>
+  </text>
+
+  <image x="280" y="90" width="110" height="110" xlink:href="ml.png" />
+
+</svg>
