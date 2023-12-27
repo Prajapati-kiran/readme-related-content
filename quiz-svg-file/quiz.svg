@@ -24,7 +24,10 @@
       Techonologies and Libraries used : 
     </tspan>
     <tspan x="20" dy="1.2em" fill="#000">
-      HTML, CSS, servlets, Sql
+      HTML, CSS, javascript, React, Bootstrap
+    </tspan>
+    <tspan x="20" dy="1.2em" fill="#000">
+      Sql, Springboot.
     </tspan>
   </text>
 
