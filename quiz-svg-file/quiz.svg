@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="200">
+
+  <rect x="10" y="10" width="400" height="180" rx="10" ry="10" fill="#fff" stroke="#000" stroke-width="0.5" />
+
+  <text x="20" y="40" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="18"  font-weight="bold" fill="#2f80ed">Quiz</text>
+
+  <text x="20" y="58" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="14" fill="#fff">
+     <tspan x="20" dy="1.2em" fill="#000">
+     Interactive Quiz Platform – the perfect destination for 
+      
+    </tspan>
+    <tspan x="20" dy="1.2em" fill="#000">
+    knowledge enthusiasts! Explore diverse quizzes, answer 
+      
+    </tspan>
+    <tspan x="20" dy="1.2em" fill="#000">
+    questions, and reveal your score instantly. User-friendly 
+    </tspan>
+    <tspan x="20" dy="1.2em" fill="#000">
+      and fun.
+    </tspan>
+
+    <tspan x="20" y="135" dy="1.2em" fill="#000">
+      Techonologies and Libraries used : 
+    </tspan>
+    <tspan x="20" dy="1.2em" fill="#000">
+      HTML, CSS, servlets, Sql
+    </tspan>
+  </text>
+
+
+</svg>
